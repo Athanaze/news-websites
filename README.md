@@ -1,7 +1,7 @@
 # news-websites
 List of news websites from all around the world
 
-Extracted manually and clean up using
+Extracted manually and cleaned up using
 
 ```python
 urlSet = set()
